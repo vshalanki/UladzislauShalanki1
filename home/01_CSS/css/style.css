@@ -1,0 +1,19 @@
+<h1style="text-align: center; color: red" title="Программа на Python, Часть 1">HOW-TO: Программа на Python, Часть 1</h1>
+#id{
+    font-style: italic;
+}
+p{
+    color:blue;
+}
+.vip{
+    color: violet;
+}
+.super_vip{
+    color: darkgoldenrod;
+}
+ul.a li{
+    color: blue;
+}
+ul.b li{
+    color: red;
+}
